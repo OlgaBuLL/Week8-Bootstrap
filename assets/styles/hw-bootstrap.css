@@ -1,0 +1,16 @@
+.maincontent {
+  background: rgb(229, 237, 240);
+  border-radius: 4px;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
+.navbar-brand {
+  margin-left: 2rem;
+}
+
+.navbar-nav {
+  margin-right: 2rem;
+}
